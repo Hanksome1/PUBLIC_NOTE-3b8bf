@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-nthu/ee/electronic/electronic-homepage/","title":"Electronic Manpage","tags":["NTHU","Electronic"]}
+{"dg-publish":true,"permalink":"/01-nthu/ee/electronic/electronic-homepage/","title":"Electronic Manpage","tags":["NTHU","NTHU/EE/Electronic"]}
 ---
 
 
@@ -42,31 +42,31 @@
 # All notes 
 | File                                                                                                      | course     |
 | --------------------------------------------------------------------------------------------------------- | ---------- |
-| [[01 - NTHU/EE/AIC/Channel Length Modulation\|Channel Length Modulation]]                              | Electronic |
-| [[01 - NTHU/EE/AIC/Short Channel Effect\|Short Channel Effect]]                                        | Electronic |
+| [[01 - NTHU/EE/AIC/note/Channel Length Modulation\|Channel Length Modulation]]                         | Electronic |
+| [[01 - NTHU/EE/AIC/note/Short Channel Effect\|Short Channel Effect]]                                   | Electronic |
 | [[01 - NTHU/EE/Electronic/Analyzing Differential Pair-Hanksome\|Analyzing Differential Pair-Hanksome]] | Electronic |
-| [[01 - NTHU/EE/Electronic/Bipolar Differential Pair\|Bipolar Differential Pair]]                       | Electronic |
-| [[01 - NTHU/EE/Electronic/BJT\|BJT]]                                                                   | Electronic |
 | [[01 - NTHU/EE/Electronic/Analyzing Differential Pair\|Analyzing Differential Pair]]                   | Electronic |
-| [[01 - NTHU/EE/Electronic/Common Drain\|Common Drain]]                                                 | Electronic |
+| [[01 - NTHU/EE/Electronic/BJT\|BJT]]                                                                   | Electronic |
+| [[01 - NTHU/EE/Electronic/Bipolar Differential Pair\|Bipolar Differential Pair]]                       | Electronic |
 | [[01 - NTHU/EE/Electronic/Common Base\|Common Base]]                                                   | Electronic |
 | [[01 - NTHU/EE/Electronic/Common Collector\|Common Collector]]                                         | Electronic |
-| [[01 - NTHU/EE/Electronic/Common Source\|Common Source]]                                               | Electronic |
+| [[01 - NTHU/EE/Electronic/Common Drain\|Common Drain]]                                                 | Electronic |
 | [[01 - NTHU/EE/Electronic/Common Emitter\|Common Emitter]]                                             | Electronic |
-| [[01 - NTHU/EE/Electronic/Degeneration\|Degeneration]]                                                 | Electronic |
 | [[01 - NTHU/EE/Electronic/Common Gate\|Common Gate]]                                                   | Electronic |
-| [[01 - NTHU/EE/Electronic/current mirror\|current mirror]]                                             | Electronic |
+| [[01 - NTHU/EE/Electronic/Common Source\|Common Source]]                                               | Electronic |
+| [[01 - NTHU/EE/Electronic/Degeneration\|Degeneration]]                                                 | Electronic |
 | [[01 - NTHU/EE/Electronic/Differential Structure\|Differential Structure]]                             | Electronic |
+| [[01 - NTHU/EE/Electronic/Differential to Signal\|Differential to Signal]]                             | Electronic |
+| [[01 - NTHU/EE/Electronic/Diode-Connected\|Diode-Connected]]                                           | Electronic |
 | [[01 - NTHU/EE/Electronic/Electronic Bias\|Electronic Bias]]                                           | Electronic |
 | [[01 - NTHU/EE/Electronic/Electronic Homepage\|Electronic Homepage]]                                   | Electronic |
-| [[01 - NTHU/EE/Electronic/Diode-Connected\|Diode-Connected]]                                           | Electronic |
-| [[01 - NTHU/EE/Electronic/Differential to Signal\|Differential to Signal]]                             | Electronic |
+| [[01 - NTHU/EE/Electronic/MOS Summary\|MOS Summary]]                                                   | Electronic |
 | [[01 - NTHU/EE/Electronic/MOSFET Differential Pair\|MOSFET Differential Pair]]                         | Electronic |
+| [[01 - NTHU/EE/Electronic/MOSFET\|MOSFET]]                                                             | Electronic |
 | [[01 - NTHU/EE/Electronic/Mosfet Summary\|Mosfet Summary]]                                             | Electronic |
 | [[01 - NTHU/EE/Electronic/Small Signal Model\|Small Signal Model]]                                     | Electronic |
-| [[01 - NTHU/EE/Electronic/MOSFET\|MOSFET]]                                                             | Electronic |
-| [[01 - NTHU/EE/Electronic/Swing\|Swing]]                                                               | Electronic |
 | [[01 - NTHU/EE/Electronic/Spice Toturial\|Spice Toturial]]                                             | Electronic |
-| [[01 - NTHU/EE/Electronic/MOS Summary\|MOS Summary]]                                                   | Electronic |
+| [[01 - NTHU/EE/Electronic/Swing\|Swing]]                                                               | Electronic |
+| [[01 - NTHU/EE/Electronic/current mirror\|current mirror]]                                             | Electronic |
 
 { .block-language-dataview}
