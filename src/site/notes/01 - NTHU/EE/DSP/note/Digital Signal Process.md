@@ -3,10 +3,9 @@
 ---
 
 # Note 
-
 > [!multi-column]
 >
->> ## First Midterm
+>> [!note] First Midterm
 >> - [[01 - NTHU/EE/DSP/note/DSP_C_To_D\|DSP_C_To_D]]
 >>- [[01 - NTHU/EE/DSP/note/DSP_D_To_C\|DSP_D_To_C]]
 >>- [[01 - NTHU/EE/DSP/note/DSP_DFTF_Properties\|DSP_DFTF_Properties]]
@@ -15,7 +14,7 @@
 >>- [[01 - NTHU/EE/DSP/note/DSP_LCCD\|DSP_LCCD]]
 >>- [[01 - NTHU/EE/DSP/note/Fourier Transform\|Fourier Transform]] 
 >
->> ## Second Midterm 
+>> [!note] Second Midterm 
 >>- [[01 - NTHU/EE/DSP/note/DSP_FilterDesign\|DSP_FilterDesign]]
 >>- [[01 - NTHU/EE/DSP/note/DSP_Butterworth_IIR_filter\|DSP_Butterworth_IIR_filter]]
 >>- [[01 - NTHU/EE/DSP/note/DSP_Bilinear_Transformation\|DSP_Bilinear_Transformation]]
@@ -28,28 +27,24 @@
 >
 
 
-
-
-
+# Homework & FUD
 
 > [!multi-column]
 >
->> ## Homework 
+>> [!note] Homework 
 >>- [[DSP_HW1.pdf]]
 >>- [[01 - NTHU/EE/DSP/note/DSP homework2\|DSP homework2]]
 >>- [[2025-DSP-FUD1.pdf]]
 >>- [[2025-DSP-FUD2 2.pdf]]
 >>- [[2025-DSP-HW4.pdf]]
 >
->> ## Submission
+>> [!note] Submission
 >>- [[01 - NTHU/EE/DSP/note/DSP homework3\|DSP homework3]]
 >>- [[01 - NTHU/EE/DSP/homework/DSP FUD3\|DSP FUD3]]
 >>- [[2025-DSP-FUD3.pdf]]
 >> - [[DSP_homework4\|DSP_homework4]]
->
->
-
-
+>> - [[FUD 3.pdf]]
+>> - [[FUD 4.pdf]]
 
 
 
